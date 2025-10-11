@@ -15,7 +15,7 @@ Features
 
 Dataset
 
-*(In this section, you should describe the dataset used to train and test your model. Include details such as the source of the dataset, the number of images, the classes, and any preprocessing steps you performed.)*
+[](https://www.kaggle.com/datasets/sophatvathana/casia-dataset)
 
 Installation
 
@@ -81,11 +81,10 @@ Training Progress
 Here are screenshots of the training process:
 
 **Epochs 1-13:**
-*To display your images, first upload them to your GitHub repository. Then, you can get the link to the raw image and embed it in your README like this:*
-`![Training Progress 1](URL_to_your_first_image)`
+[](https://github.com/Jaiamar/AI-Image-Forgery-Detection/blob/main/__pycache__/Screenshot%202025-10-11%20050941.png)
 
 **Epochs 17-21 and Final Results:**
-`![Training Progress 2](URL_to_your_second_image)`
+[](https://github.com/Jaiamar/AI-Image-Forgery-Detection/blob/main/__pycache__/Screenshot%202025-10-11%20051748.png)
 
 Contributing
 
